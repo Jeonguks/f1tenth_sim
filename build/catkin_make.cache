@@ -1,0 +1,2 @@
+LearningMPC:f1-10_RRT_planning:racecar_simulator
+-DCATKIN_DEVEL_PREFIX=/home/f1/yu_ws/devel -DCMAKE_INSTALL_PREFIX=/home/f1/yu_ws/install -G Unix Makefiles
